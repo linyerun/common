@@ -1,0 +1,2 @@
+# test包
+以后所有的test都放在这个包下，比如我需要测试util包下signal.go的内容，那就在test包中新建一个util包，创建一个signal_test.go文件，然后在里面写测试代码。
